@@ -2,10 +2,10 @@ encoding: utf-8
 
 # SEO相关信息
 title: 震中奇葩说
-description: 震泽中学深藏Blue奇葩说社
-keywords: ZZQPS,奇葩说,震中奇葩说,震泽中学深藏Blue奇葩说社
+description: 深藏Blue震中奇葩说社
+keywords: ZZQPS,奇葩说,震中奇葩说,深藏Blue震中奇葩说社,震泽中学
 author: TalexCK
-footerText: '震泽中学深藏Blue奇葩说社 2023'
+footerText: '深藏Blue震中奇葩说社 2023'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
